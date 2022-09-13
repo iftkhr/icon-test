@@ -23,10 +23,6 @@ export const DateGreaterThanIcon: React.FC<Props> = ({
 		xmlns="http://www.w3.org/2000/svg"
 	>
 		<title>{tooltip}</title>
-		<path
-			d="M14.9543 12.956V14.108L9.05034 16.616V15.464L13.6343 13.532L9.05034 11.612V10.46L14.9543 12.956Z"
-			fill="#1D6295"
-		/>
 		<rect
 			x="0.5"
 			y="3.5"
@@ -34,6 +30,10 @@ export const DateGreaterThanIcon: React.FC<Props> = ({
 			height="19"
 			rx="2.5"
 			stroke="#1D6295"
+		/>
+		<path
+			d="M14.9543 12.956V14.108L9.05034 16.616V15.464L13.6343 13.532L9.05034 11.612V10.46L14.9543 12.956Z"
+			fill="#1D6295"
 		/>
 		<path
 			d="M6 1L6 6"

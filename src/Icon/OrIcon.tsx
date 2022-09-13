@@ -23,7 +23,6 @@ export const OrIcon: React.FC<Props> = ({
 		xmlns="http://www.w3.org/2000/svg"
 	>
 		<title>{tooltip}</title>
-		<path d="M11.2906 4.456H12.6946V15.184H11.2906V4.456Z" fill="#1D6295" />
 		<rect
 			x="0.5"
 			y="0.5"
@@ -32,5 +31,6 @@ export const OrIcon: React.FC<Props> = ({
 			rx="2.5"
 			stroke="#1D6295"
 		/>
+		<path d="M11.2906 4.456H12.6946V15.184H11.2906V4.456Z" fill="#1D6295" />
 	</svg>
 );

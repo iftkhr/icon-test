@@ -4896,13 +4896,6 @@ function App() {
 					stroke="red"
 				/>
 			</div>
-			<div className="p rows">
-				<div className="name">pytho</div> <pytho />
-				<pytho width="50" height="50" fill="red" tooltip="pytho" />
-				<pytho width="75" height="75" fill="blue" stroke="white" />
-				<pytho width="100" height="100" fill="green" stroke="black" />
-				<pytho width="125" height="125" fill="yellow" stroke="red" />
-			</div>
 			<div className="Quote rows">
 				<div className="name">QuoteIcon</div> <QuoteIcon />
 				<QuoteIcon
