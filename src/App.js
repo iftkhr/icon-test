@@ -24,12 +24,14 @@ import { BranchingMergingIcon } from "./Icon/BranchingMergingIcon.tsx";
 import { BrushIcon } from "./Icon/BrushIcon.tsx";
 import { ButtonGroupIcon } from "./Icon/ButtonGroupIcon.tsx";
 import { ButtonIcon } from "./Icon/ButtonIcon.tsx";
+import { ButtonIcon2 } from "./Icon/ButtonIcon2.tsx";
 import { IsEmptyIcon } from "./Icon/IsEmptyIcon.tsx";
 import { IsFalseIcon } from "./Icon/IsFalseIcon.tsx";
 import { IsNotIcon } from "./Icon/IsNotIcon.tsx";
 import { IsTrueIcon } from "./Icon/IsTrueIcon.tsx";
 import { ItalicIcon } from "./Icon/ItalicIcon.tsx";
 import { LabelIcon } from "./Icon/LabelIcon.tsx";
+import { LabelIcon2 } from "./Icon/LabelIcon2.tsx";
 import { LayoutIcon } from "./Icon/LayoutIcon.tsx";
 import { LeftAlignIcon } from "./Icon/LeftAlignIcon.tsx";
 import { LeftImageContentIcon } from "./Icon/LeftImageContentIcon.tsx";
@@ -38,6 +40,7 @@ import { LessThanIcon } from "./Icon/LessThanIcon.tsx";
 import { LineIcon } from "./Icon/LineIcon.tsx";
 import { LinkDataIcon } from "./Icon/LinkDataIcon.tsx";
 import { LinkIcon } from "./Icon/LinkIcon.tsx";
+import { LinkIcon2 } from "./Icon/LinkIcon2.tsx";
 import { ListEntryIcon } from "./Icon/ListEntryIcon.tsx";
 import { ListIcon } from "./Icon/ListIcon.tsx";
 import { ListViewIcon } from "./Icon/ListViewIcon.tsx";
@@ -51,6 +54,7 @@ import { RoundIcon } from "./Icon/RoundIcon.tsx";
 import { RulesGrayIcon } from "./Icon/RulesGrayIcon.tsx";
 import { RulesGreenIcon } from "./Icon/RulesGreenIcon.tsx";
 import { RulesIcon } from "./Icon/RulesIcon.tsx";
+import { RuleIcon } from "./Icon/RuleIcon.tsx";
 import { RulesWhiteIcon } from "./Icon/RulesWhiteIcon.tsx";
 import { RuleTableIcon } from "./Icon/RuleTableIcon.tsx";
 import { RunExpressionBooleanIcon } from "./Icon/RunExpressionBooleanIcon.tsx";
@@ -113,6 +117,7 @@ import { TagIcon } from "./Icon/TagIcon.tsx";
 import { TestDataIcon } from "./Icon/TestDataIcon.tsx";
 import { TestIcon } from "./Icon/TestIcon.tsx";
 import { TextAreaIcon } from "./Icon/TextAreaIcon.tsx";
+import { TextAreaIcon2 } from "./Icon/TextAreaIcon2.tsx";
 import { TextCenterAlignIcon } from "./Icon/TextCenterAlignIcon.tsx";
 import { TextContainsIcon } from "./Icon/TextContainsIcon.tsx";
 import { TextEmptyIcon } from "./Icon/TextEmptyIcon.tsx";
@@ -134,6 +139,7 @@ import { CutWhiteIcon } from "./Icon/CutWhiteIcon.tsx";
 import { DataGrayIcon } from "./Icon/DataGrayIcon.tsx";
 import { DataGridIcon } from "./Icon/DataGridIcon.tsx";
 import { DataIcon } from "./Icon/DataIcon.tsx";
+import { DataIcon2 } from "./Icon/DataIcon2.tsx";
 import { DataInputIcon } from "./Icon/DataInputIcon.tsx";
 import { DataOutputIcon } from "./Icon/DataOutputIcon.tsx";
 import { DateEqualToIcon } from "./Icon/DateEqualToIcon.tsx";
@@ -177,6 +183,7 @@ import { RadioOffIcon } from "./Icon/RadioOffIcon.tsx";
 import { RadioOnIcon } from "./Icon/RadioOnIcon.tsx";
 import { RandomIcon } from "./Icon/RandomIcon.tsx";
 import { RatingIcon } from "./Icon/RatingIcon.tsx";
+import { RatingIcon2 } from "./Icon/RatingIcon2.tsx";
 import { ReadCSVIcon } from "./Icon/ReadCSVIcon.tsx";
 import { ReadFileFromURLIcon } from "./Icon/ReadFileFromURLIcon.tsx";
 import { ReadFileIcon } from "./Icon/ReadFileIcon.tsx";
@@ -230,6 +237,7 @@ import { CheckboxFormIcon } from "./Icon/CheckboxFormIcon.tsx";
 import { CheckboxIcon } from "./Icon/CheckboxIcon.tsx";
 import { CheckboxListIcon } from "./Icon/CheckboxListIcon.tsx";
 import { CheckedIcon } from "./Icon/CheckedIcon.tsx";
+import { CheckedIcon2 } from "./Icon/CheckedIcon2.tsx";
 import { CheckListIcon } from "./Icon/CheckListIcon.tsx";
 import { ClickToEditIcon } from "./Icon/ClickToEditIcon.tsx";
 import { CloseGrayIcon } from "./Icon/CloseGrayIcon.tsx";
@@ -243,7 +251,9 @@ import { CollapseAllIcon } from "./Icon/CollapseAllIcon.tsx";
 import { CollapseIcon } from "./Icon/CollapseIcon.tsx";
 import { ColorIcon } from "./Icon/ColorIcon.tsx";
 import { ColorPickerIcon } from "./Icon/ColorPickerIcon.tsx";
+import { ColorPickerIcon2 } from "./Icon/ColorPickerIcon2.tsx";
 import { ColumnIcon } from "./Icon/ColumnIcon.tsx";
+import { ColumnIcon2 } from "./Icon/ColumnIcon2.tsx";
 import { CombineIcon } from "./Icon/CombineIcon.tsx";
 import { ConsentIcon } from "./Icon/ConsentIcon.tsx";
 import { ConstantIcon } from "./Icon/ConstantIcon.tsx";
@@ -255,6 +265,7 @@ import { MinIcon } from "./Icon/MinIcon.tsx";
 import { MinusGrayIcon } from "./Icon/MinusGrayIcon.tsx";
 import { ModIcon } from "./Icon/ModIcon.tsx";
 import { MoveIcon } from "./Icon/MoveIcon.tsx";
+import { MoveIcon2 } from "./Icon/MoveIcon2.tsx";
 import { MovementIcon } from "./Icon/MovementIcon.tsx";
 import { MovingIcon } from "./Icon/MovingIcon.tsx";
 import { MultiLineTextIcon } from "./Icon/MultiLineTextIcon.tsx";
@@ -268,6 +279,7 @@ import { NotEmptyIcon } from "./Icon/NotEmptyIcon.tsx";
 import { NotEqualIcon } from "./Icon/NotEqualIcon.tsx";
 import { NotIcon } from "./Icon/NotIcon.tsx";
 import { NumberboxIcon } from "./Icon/NumberboxIcon.tsx";
+import { NumberboxIcon2 } from "./Icon/NumberboxIcon2.tsx";
 import { NumberListIcon } from "./Icon/NumberListIcon.tsx";
 import { OpenBlueIcon } from "./Icon/OpenBlueIcon.tsx";
 import { OpenIcon } from "./Icon/OpenIcon.tsx";
@@ -290,7 +302,9 @@ import { ServiceCallIcon } from "./Icon/ServiceCallIcon.tsx";
 import { SettingIcon } from "./Icon/SettingIcon.tsx";
 import { ShowIcon } from "./Icon/ShowIcon.tsx";
 import { SliderIcon } from "./Icon/SliderIcon.tsx";
+import { SliderIcon2 } from "./Icon/SliderIcon2.tsx";
 import { StackIcon } from "./Icon/StackIcon.tsx";
+import { StackIcon2 } from "./Icon/StackIcon2.tsx";
 import { StarIcon } from "./Icon/StarIcon.tsx";
 import { StartWithIcon } from "./Icon/StartWithIcon.tsx";
 import { GreaterThanEqualIcon } from "./Icon/GreaterThanEqualIcon.tsx";
@@ -300,15 +314,23 @@ import { H1Icon } from "./Icon/H1Icon.tsx";
 import { H2Icon } from "./Icon/H2Icon.tsx";
 import { H3Icon } from "./Icon/H3Icon.tsx";
 import { HeadingIcon } from "./Icon/HeadingIcon.tsx";
+import { HeadingIcon2 } from "./Icon/HeadingIcon2.tsx";
 import { HideIcon } from "./Icon/HideIcon.tsx";
 import { HorizontalLineIcon } from "./Icon/HorizontalLineIcon.tsx";
 import { HorizontalModeIcon } from "./Icon/HorizontalModeIcon.tsx";
 import { HStackIcon } from "./Icon/HStackIcon.tsx";
+import { HStackIcon2 } from "./Icon/HStackIcon2.tsx";
 import { IfThenIcon } from "./Icon/IfThenIcon.tsx";
 import { ImageIcon } from "./Icon/ImageIcon.tsx";
 import { ImportIcon } from "./Icon/ImportIcon.tsx";
 import { IndexOfIcon } from "./Icon/IndexOfIcon.tsx";
 import { InfoIcon } from "./Icon/InfoIcon.tsx";
+import { LogStep12pxIcon } from "./Icon/LogStep12pxIcon.tsx";
+import { LogStep24pxIcon } from "./Icon/LogStep24pxIcon.tsx";
+import { MultiOutput12pxIcon } from "./Icon/MultiOutput12pxIcon.tsx";
+import { MultiOutput24pxIcon } from "./Icon/MultiOutput24pxIcon.tsx";
+import { FormStep12pxIcon } from "./Icon/FormStep12pxIcon.tsx";
+import { FormStep24pxIcon } from "./Icon/FormStep24pxIcon.tsx";
 
 function App() {
 	return (
@@ -337,352 +359,6 @@ function App() {
 					STROKE=RED
 				</div>
 			</div>
-			{/* <div className="absolute rows">
-				<div className="name">AbsoluteIcon</div>
-				<AbsoluteIcon />
-				<AbsoluteIcon
-					width="50"
-					height="50"
-					fill="red"
-					tooltip="AbsoluteIcon"
-				/>
-				<AbsoluteIcon
-					width="75"
-					height="75"
-					fill="blue"
-					stroke="white"
-				/>
-				<AbsoluteIcon
-					width="100"
-					height="100"
-					fill="green"
-					stroke="black"
-				/>
-				<AbsoluteIcon
-					width="125"
-					height="125"
-					fill="yellow"
-					stroke="red"
-				/>
-			</div>
-			<ActiveLeftAlignIcon />
-			<ActiveLogicalIcon />
-			<ActiveRightAlignIcon height="100" width="100" />
-			<AndIcon />
-			<ApplyIcon />
-			<ApprovalIcon />
-			<ArrowDownIcon />
-			<ArrowRightIcon width="200" height="200" fill="#fff" />
-			<AsCurrencyIcon />
-			<AsPercentageIcon />
-			<AssignTaskIcon />
-			<AttentionIcon />
-			<AverageIcon />
-			<BackIcon />
-			<BarChartIcon />
-			<BlackArrowLeftIcon />
-			<BlueStarIcon />
-			<BoldIcon width="70" height="70" fill="#000" stroke="#fff" />
-			<BranchIcon />
-			<BranchingMergingIcon />
-			<BrushIcon />
-			<ButtonGroupIcon />
-			<ButtonIcon />
-			<IsEmptyIcon />
-			<IsFalseIcon />
-			<IsNotIcon />
-			<IsTrueIcon />
-			<ItalicIcon />
-			<LabelIcon />
-			<LayoutIcon />
-			<LeftAlignIcon />
-			<LeftImageContentIcon />
-			<LessThanEqualIcon />
-			<LessThanIcon />
-			<LineIcon />
-			<LinkDataIcon />
-			<LinkIcon />
-			<ListEntryIcon />
-			<ListIcon />
-			<ListViewIcon />
-			<LogicalIcon width="1000" height="1000" fill="#000" />
-			<LogStepIcon />
-			<LowercaseIcon />
-			<MappingDarkIcon />
-			<ResetIcon />
-			<RightAlignIcon />
-			<RoundIcon />
-			<RulesGrayIcon />
-			<RulesGreenIcon />
-			<RulesIcon />
-			<RulesWhiteIcon />
-			<RuleTableIcon />
-			<RunExpressionBooleanIcon />
-			<RunExpressionNumberIcon />
-			<RunExpressionStringIcon />
-			<RunFlowIcon />
-			<RunIcon />
-			<RunIntersectionRuleIcon />
-			<RunRuleIcon />
-			<RunRuleSetIcon />
-			<RunSqlIcon />
-			<RunStatementRuleIcon />
-			<DownloadIcon />
-			<DragDropBlueIcon />
-			<DragDropIcon />
-			<DragIcon />
-			<DropdownBlueIcon />
-			<DropdownIcon />
-			<DropdownOpenIcon />
-			<DropdownWhiteIcon />
-			<EditGrayIcon />
-			<EditIcon />
-			<EditStackIcon />
-			<EditStackLightIcon />
-			<EmailValidIcon />
-			<EmptyIcon />
-			<EndFlowIcon />
-			<EndIcon />
-			<EndWithIcon />
-			<EqualIcon />
-			<ErrorBranchIcon />
-			<ErrorFlowIcon />
-			<ErrorIcon />
-			<ExclamationIcon width="250" height="250" stroke="#bbb" />
-			<ExclamationRedIcon />
-			<ExclamationRedLargeIcon />
-			<ExistsIcon />
-			<ExpandAllIcon />
-			<CellphoneHorizontalIcon />
-			<CopyIcon />
-			<DownloadBlueIcon />
-			<ExpandGrayIcon />
-			<GetRatingIcon />
-			<InformationIcon />
-			<MappingIcon />
-			<OtherBuilderIcon />
-			<RedoIcon />
-			<RunTableRuleIcon />
-			<StepDescriptionIcon />
-			<TextUnderlineIcon />
-			<SubstractIcon />
-			<SumIcon />
-			<SwitchIcon />
-			<TabIcon />
-			<TableIcon />
-			<TabletHorizontalIcon />
-			<TabletVerticalIcon />
-			<TabsContainerIcon />
-			<TagIcon />
-			<TestDataIcon />
-			<TestIcon />
-			<TextAreaIcon />
-			<TextCenterAlignIcon />
-			<TextContainsIcon />
-			<TextEmptyIcon />
-			<TextFieldIcon />
-			<TextFileIcon />
-			<TextLabelIcon />
-			<TextLeftAlignIcon />
-			<TextLengthIcon />
-			<TextMergeDarkIcon />
-			<TextOutlineIcon />
-			<TextRightAlignIcon />
-			<TextShadedIcon />
-			<CopyWhiteIcon />
-			<CreateContentIcon />
-			<CurrencyIcon />
-			<CutGrayIcon />
-			<CutIcon />
-			<CutWhiteIcon />
-			<DataGrayIcon />
-			<DataGridIcon />
-			<DataIcon />
-			<DataInputIcon />
-			<DataOutputIcon />
-			<DateEqualToIcon />
-			<DateGreaterThanIcon />
-			<DateLessThanIcon />
-			<DatePickerIcon />
-			<DateRangeIcon />
-			<DefinedIcon />
-			<DeletedTextIcon />
-			<DeleteGrayIcon />
-			<DeleteIcon />
-			<DeleteWhiteIcon />
-			<DescriptionGrayIcon />
-			<DescriptionIcon />
-			<DeviceIcon />
-			<DevideIcon width="200" height="100" fill="#000" />
-			<DiagramModeIcon />
-			<DotListIcon />
-			<DownIcon />
-			<OutlineIcon />
-			<PaperIcon />
-			<PasswordBoxIcon />
-			<PasteGrayIcon />
-			<PasteIcon />
-			<PathArrowIcon />
-			<PathLineIcon />
-			<PDFFileIcon />
-			<PermissibleIcon />
-			<PieChartIcon />
-			<PinIcon />
-			<PlusBlueIcon />
-			<PlusGrayIcon />
-			<PlusIcon />
-			<PlusOutlineIcon />
-			<PlusWhiteIcon />
-			<ProperIcon />
-			<QuoteIcon
-				width="650"
-				height="650"
-				stroke="#fff"
-				tooltip="I am a quote!!"
-			/>
-			<RadioGroupIcon />
-			<RadioListIcon />
-			<RadioOffIcon />
-			<RadioOnIcon />
-			<RandomIcon />
-			<RatingIcon />
-			<ReadCSVIcon />
-			<ReadFileFromURLIcon />
-			<ReadFileIcon />
-			<ReadJSONIcon />
-			<ReadSQLIcon />
-			<ReadXMLIcon />
-			<ExpandIcon />
-			<ExpressionBlueIcon />
-			<ExpressionIcon />
-			<FileDownloadIcon />
-			<FileUploadIcon />
-			<Flow1Icon />
-			<FlowIcon />
-			<ForEachIcon />
-			<ForEachParallelIcon />
-			<FormBlueIcon />
-			<FormEditIcon />
-			<FormIcon />
-			<FormStepIcon />
-			<GetByIdIcon />
-			<GetCommentIcon />
-			<GetEmailIcon />
-			<GetFileIcon />
-			<ThreeDotsBlackIcon />
-			<ThreeDotsIcon />
-			<TimePickerIcon />
-			<ToolbarSettingIcon />
-			<TopImageContentIcon />
-			<TrimIcon />
-			<UncheckedIcon />
-			<UnderlineIcon />
-			<UndoIcon />
-			<UpIcon />
-			<UploadIcon />
-			<UppercaseIcon />
-			<ValueSliderIcon />
-			<VariableIcon />
-			<ViewIcon />
-			<VotingIcon />
-			<WaitEmailResIcon />
-			<WarningIcon />
-			<WarningRedIcon width="200" height="200" stroke="#f00" />
-			<WebpageIcon />
-			<WhiteLogoIcon />
-			<WriteCSVIcon />
-			<WriteFileIcon />
-			<WriteJSONIcon />
-			<WriteXMLIcon />
-			<CellphoneVerticalIcon />
-			<CheckboxFormIcon />
-			<CheckboxIcon />
-			<CheckboxListIcon />
-			<CheckedIcon />
-			<CheckListIcon />
-			<ClickToEditIcon />
-			<CloseGrayIcon />
-			<CloseIcon />
-			<CloseRedIcon />
-			<CloseSmallIcon />
-			<CloudUploadIcon />
-			<CodeIcon />
-			<CodingIcon />
-			<CollapseAllIcon />
-			<CollapseIcon />
-			<ColorIcon />
-			<ColorPickerIcon />
-			<ColumnIcon />
-			<CombineIcon />
-			<ConsentIcon />
-			<ConstantIcon />
-			<ContainsIcon />
-			<CopyGrayIcon />
-			<MaxIcon />
-			<MergeIcon />
-			<MinIcon />
-			<MinusGrayIcon />
-			<ModIcon />
-			<MoveIcon />
-			<MovementIcon />
-			<MovingIcon />
-			<MultiLineTextIcon />
-			<MultiplyIcon />
-			<MultiStepIcon />
-			<NoDataIcon />
-			<NoneIcon />
-			<NormalModeIcon />
-			<NotContainsIcon />
-			<NotEmptyIcon />
-			<NotEqualIcon />
-			<NotIcon />
-			<NumberboxIcon />
-			<NumberListIcon />
-			<OpenBlueIcon />
-			<OpenIcon />
-			<OpenReverseIcon />
-			<OrIcon />
-			<RuntimeIcon />
-			<RunTreeRuleIcon />
-			<RunValueRuleIcon />
-			<SaveDataIcon />
-			<SaveFlowIcon />
-			<ScrollIcon />
-			<SearchDataIcon />
-			<SearchGrayIcon />
-			<SearchIcon />
-			<SecurityIcon />
-			<SelectBoxIcon />
-			<SendEmailIcon />
-			<SendSMSIcon />
-			<ServiceCallIcon />
-			<SettingIcon />
-			<ShowIcon />
-			<SliderIcon />
-			<StackIcon />
-			<StarIcon />
-			<StartWithIcon />
-			<GreaterThanEqualIcon />
-			<GreaterThanIcon />
-			<GridViewIcon />
-			<H1Icon />
-			<H2Icon />
-			<H3Icon />
-			<HeadingIcon />
-			<HideIcon />
-			<HorizontalLineIcon />
-			<HorizontalModeIcon />
-			<HStackIcon />
-			<IfThenIcon />
-			<ImageIcon />
-			<ImportIcon />
-			<IndexOfIcon />
-			<InfoIcon
-				width="1000"
-				height="1000"
-				stroke="#0f0"
-				tooltip="What???"
-			/> */}
 			<div className="Absolute rows">
 				<div className="name">AbsoluteIcon</div> <AbsoluteIcon />
 				<AbsoluteIcon
@@ -1255,7 +931,7 @@ function App() {
 					stroke="red"
 				/>
 			</div>
-			<div className="Button rows">
+			<div className="Button2 rows">
 				<div className="name">ButtonIcon</div> <ButtonIcon />
 				<ButtonIcon
 					width="50"
@@ -1271,6 +947,33 @@ function App() {
 					stroke="black"
 				/>
 				<ButtonIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
+			<div className="Button2 rows">
+				<div className="name">ButtonIcon2</div> <ButtonIcon2 />
+				<ButtonIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="ButtonIcon2"
+				/>
+				<ButtonIcon2
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<ButtonIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<ButtonIcon2
 					width="125"
 					height="125"
 					fill="yellow"
@@ -1413,6 +1116,28 @@ function App() {
 					stroke="black"
 				/>
 				<LabelIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
+			<div className="Label2 rows">
+				<div className="name">LabelIcon2</div> <LabelIcon2 />
+				<LabelIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="LabelIcon2"
+				/>
+				<LabelIcon2 width="75" height="75" fill="blue" stroke="white" />
+				<LabelIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<LabelIcon2
 					width="125"
 					height="125"
 					fill="yellow"
@@ -1611,6 +1336,28 @@ function App() {
 					stroke="black"
 				/>
 				<LinkIcon width="125" height="125" fill="yellow" stroke="red" />
+			</div>
+			<div className="Link2 rows">
+				<div className="name">LinkIcon2</div> <LinkIcon2 />
+				<LinkIcon
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="LinkIcon2"
+				/>
+				<LinkIcon2 width="75" height="75" fill="blue" stroke="white" />
+				<LinkIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<LinkIcon2
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
 			</div>
 			<div className="ListEntry rows">
 				<div className="name">ListEntryIcon</div> <ListEntryIcon />
@@ -1937,6 +1684,23 @@ function App() {
 					fill="yellow"
 					stroke="red"
 				/>
+			</div>
+			<div className="Rule rows">
+				<div className="name">RuleIcon</div> <RuleIcon />
+				<RuleIcon
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="RuleIcon"
+				/>
+				<RuleIcon width="75" height="75" fill="blue" stroke="white" />
+				<RuleIcon
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<RuleIcon width="125" height="125" fill="yellow" stroke="red" />
 			</div>
 			<div className="RulesWhite rows">
 				<div className="name">RulesWhiteIcon</div> <RulesWhiteIcon />
@@ -3448,6 +3212,33 @@ function App() {
 					stroke="red"
 				/>
 			</div>
+			<div className="TextArea2 rows">
+				<div className="name">TextAreaIcon2</div> <TextAreaIcon2 />
+				<TextAreaIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="TextAreaIcon2"
+				/>
+				<TextAreaIcon2
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<TextAreaIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<TextAreaIcon2
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
 			<div className="TextCenterAlign rows">
 				<div className="name">TextCenterAlignIcon</div>
 				<TextCenterAlignIcon />
@@ -3990,6 +3781,28 @@ function App() {
 					stroke="black"
 				/>
 				<DataIcon width="125" height="125" fill="yellow" stroke="red" />
+			</div>
+			<div className="Data2 rows">
+				<div className="name">DataIcon2</div> <DataIcon2 />
+				<DataIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="DataIcon2"
+				/>
+				<DataIcon2 width="75" height="75" fill="blue" stroke="white" />
+				<DataIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<DataIcon2
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
 			</div>
 			<div className="DataInput rows">
 				<div className="name">DataInputIcon</div> <DataInputIcon />
@@ -5064,6 +4877,33 @@ function App() {
 					stroke="black"
 				/>
 				<RatingIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
+			<div className="Rating2 rows">
+				<div className="name">RatingIcon2</div> <RatingIcon2 />
+				<RatingIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="RatingIcon2"
+				/>
+				<RatingIcon2
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<RatingIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<RatingIcon2
 					width="125"
 					height="125"
 					fill="yellow"
@@ -6422,6 +6262,33 @@ function App() {
 					stroke="red"
 				/>
 			</div>
+			<div className="Checked2 rows">
+				<div className="name">CheckedIcon2</div> <CheckedIcon2 />
+				<CheckedIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="CheckedIcon2"
+				/>
+				<CheckedIcon2
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<CheckedIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<CheckedIcon2
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
 			<div className="CheckList rows">
 				<div className="name">CheckListIcon</div> <CheckListIcon />
 				<CheckListIcon
@@ -6748,6 +6615,34 @@ function App() {
 					stroke="red"
 				/>
 			</div>
+			<div className="ColorPicker2 rows">
+				<div className="name">ColorPickerIcon2</div>{" "}
+				<ColorPickerIcon2 />
+				<ColorPickerIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="ColorPickerIcon2"
+				/>
+				<ColorPickerIcon2
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<ColorPickerIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<ColorPickerIcon2
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
 			<div className="Column rows">
 				<div className="name">ColumnIcon</div> <ColumnIcon />
 				<ColumnIcon
@@ -6764,6 +6659,33 @@ function App() {
 					stroke="black"
 				/>
 				<ColumnIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
+			<div className="Column2 rows">
+				<div className="name">ColumnIcon2</div> <ColumnIcon2 />
+				<ColumnIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="ColumnIcon2"
+				/>
+				<ColumnIcon2
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<ColumnIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<ColumnIcon2
 					width="125"
 					height="125"
 					fill="yellow"
@@ -6991,6 +6913,28 @@ function App() {
 					stroke="black"
 				/>
 				<MoveIcon width="125" height="125" fill="yellow" stroke="red" />
+			</div>
+			<div className="Move2 rows">
+				<div className="name">MoveIcon2</div> <MoveIcon2 />
+				<MoveIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="MoveIcon2"
+				/>
+				<MoveIcon2 width="75" height="75" fill="blue" stroke="white" />
+				<MoveIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<MoveIcon2
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
 			</div>
 			<div className="Movement rows">
 				<div className="name">MovementIcon</div> <MovementIcon />
@@ -7298,6 +7242,33 @@ function App() {
 					stroke="black"
 				/>
 				<NumberboxIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
+			<div className="Numberbox2 rows">
+				<div className="name">NumberboxIcon2</div> <NumberboxIcon2 />
+				<NumberboxIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="NumberboxIcon2"
+				/>
+				<NumberboxIcon2
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<NumberboxIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<NumberboxIcon2
 					width="125"
 					height="125"
 					fill="yellow"
@@ -7844,6 +7815,33 @@ function App() {
 					stroke="red"
 				/>
 			</div>
+			<div className="Slider2 rows">
+				<div className="name">SliderIcon2</div> <SliderIcon2 />
+				<SliderIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="SliderIcon2"
+				/>
+				<SliderIcon2
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<SliderIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<SliderIcon2
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
 			<div className="Stack rows">
 				<div className="name">StackIcon</div> <StackIcon />
 				<StackIcon
@@ -7860,6 +7858,28 @@ function App() {
 					stroke="black"
 				/>
 				<StackIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
+			<div className="Stack2 rows">
+				<div className="name">StackIcon2</div> <StackIcon2 />
+				<StackIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="StackIcon"
+				/>
+				<StackIcon2 width="75" height="75" fill="blue" stroke="white" />
+				<StackIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<StackIcon2
 					width="125"
 					height="125"
 					fill="yellow"
@@ -8040,6 +8060,33 @@ function App() {
 					stroke="red"
 				/>
 			</div>
+			<div className="Heading2 rows">
+				<div className="name">HeadingIcon</div> <HeadingIcon2 />
+				<HeadingIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="HeadingIcon2"
+				/>
+				<HeadingIcon2
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<HeadingIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<HeadingIcon2
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
 			<div className="Hide rows">
 				<div className="name">HideIcon</div> <HideIcon />
 				<HideIcon
@@ -8129,6 +8176,33 @@ function App() {
 					stroke="black"
 				/>
 				<HStackIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
+			<div className="HStack2 rows">
+				<div className="name">HStackIcon2</div> <HStackIcon2 />
+				<HStackIcon2
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="HStackIcon2"
+				/>
+				<HStackIcon2
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<HStackIcon2
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<HStackIcon2
 					width="125"
 					height="125"
 					fill="yellow"
@@ -8244,6 +8318,174 @@ function App() {
 					stroke="black"
 				/>
 				<InfoIcon width="125" height="125" fill="yellow" stroke="red" />
+			</div>
+			<div className="FormStep12pxIcon rows">
+				<div className="name">FormStep12pxIcon</div>
+				<FormStep12pxIcon />
+				<FormStep12pxIcon
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="FormStep12pxIcon"
+				/>
+				<FormStep12pxIcon
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<FormStep12pxIcon
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<FormStep12pxIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
+			<div className="FormStep24pxIcon rows">
+				<div className="name">FormStep24pxIcon</div>
+				<FormStep24pxIcon />
+				<FormStep24pxIcon
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="FormStep24pxIcon"
+				/>
+				<FormStep24pxIcon
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<FormStep24pxIcon
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<FormStep24pxIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
+			<div className="LogStep12pxIcon rows">
+				<div className="name">LogStep12pxIcon</div>
+				<LogStep12pxIcon />
+				<LogStep12pxIcon
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="LogStep12pxIcon"
+				/>
+				<LogStep12pxIcon
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<LogStep12pxIcon
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<LogStep12pxIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
+			<div className="LogStep24pxIcon rows">
+				<div className="name">LogStep24pxIcon</div>
+				<LogStep24pxIcon />
+				<LogStep24pxIcon
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="LogStep24pxIcon"
+				/>
+				<LogStep24pxIcon
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<LogStep24pxIcon
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<LogStep24pxIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
+			<div className="MultiOutput12pxIcon rows">
+				<div className="name">MultiOutput12pxIcon</div>
+				<MultiOutput12pxIcon />
+				<MultiOutput12pxIcon
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="MultiOutput12pxIcon"
+				/>
+				<MultiOutput12pxIcon
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<MultiOutput12pxIcon
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<MultiOutput12pxIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
+			<div className="MultiOutput24pxIcon rows">
+				<div className="name">MultiOutput24pxIcon</div>
+				<MultiOutput24pxIcon />
+				<MultiOutput24pxIcon
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="MultiOutput24pxIcon"
+				/>
+				<MultiOutput24pxIcon
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<MultiOutput24pxIcon
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<MultiOutput24pxIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
 			</div>
 		</div>
 	);
