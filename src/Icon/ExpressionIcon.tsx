@@ -23,7 +23,7 @@ export const ExpressionIcon: React.FC<Props> = ({
 		xmlns="http://www.w3.org/2000/svg"
 	>
 		<title>{tooltip}</title>
-		<g clip-path="url(#clip0)">
+		<g>
 			<path
 				d="M4.41351 12L8 12"
 				stroke="#272932"

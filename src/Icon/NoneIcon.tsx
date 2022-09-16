@@ -23,7 +23,7 @@ export const NoneIcon: React.FC<Props> = ({
 		xmlns="http://www.w3.org/2000/svg"
 	>
 		<title>{tooltip}</title>
-		<g opacity="0.8" clip-path="url(#clip0)">
+		<g opacity="0.8">
 			<ellipse
 				cx="9.10074"
 				cy="17.2991"

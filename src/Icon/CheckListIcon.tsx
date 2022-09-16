@@ -23,7 +23,7 @@ export const CheckListIcon: React.FC<Props> = ({
 		xmlns="http://www.w3.org/2000/svg"
 	>
 		<title>{tooltip}</title>
-		<g opacity="0.6" clip-path="url(#clip0)">
+		<g opacity="0.6">
 			<path
 				d="M6.25122 1.95996H17.7692C18.1575 1.95996 18.4723 2.27476 18.4723 2.66309C18.4723 3.05141 18.1575 3.36621 17.7692 3.36621H6.25122C5.8629 3.36621 5.5481 3.05141 5.5481 2.66309C5.5481 2.27476 5.8629 1.95996 6.25122 1.95996Z"
 				fill="#677C95"

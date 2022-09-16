@@ -35,7 +35,7 @@ export const ErrorFlowIcon: React.FC<Props> = ({
 			stroke-width="1.3"
 			stroke-linecap="round"
 		/>
-		<g clip-path="url(#clip0)">
+		<g>
 			<path
 				d="M19 8L4 8"
 				stroke="#EE3E54"

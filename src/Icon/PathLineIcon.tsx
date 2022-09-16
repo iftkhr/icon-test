@@ -31,9 +31,15 @@ export const PathLineIcon: React.FC<Props> = ({
 		<g>
 			<g>
 				<g>
-					<use opacity="1" fill="#000000" fill-opacity="0"></use>
+					<use
+						xlinkHref="#aayd8EG2mm"
+						opacity="1"
+						fill="#000000"
+						fill-opacity="0"
+					></use>
 					<g>
 						<use
+							xlinkHref="#aayd8EG2mm"
 							opacity="1"
 							fill-opacity="0"
 							stroke="#4050a6"

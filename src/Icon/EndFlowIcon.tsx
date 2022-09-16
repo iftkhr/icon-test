@@ -23,7 +23,7 @@ export const EndFlowIcon: React.FC<Props> = ({
 		xmlns="http://www.w3.org/2000/svg"
 	>
 		<title>{tooltip}</title>
-		<g clip-path="url(#clip0)">
+		<g>
 			<path
 				d="M23 8L4 8"
 				stroke="#4050A6"

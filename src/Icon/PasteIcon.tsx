@@ -23,7 +23,7 @@ export const PasteIcon: React.FC<Props> = ({
 		xmlns="http://www.w3.org/2000/svg"
 	>
 		<title>{tooltip}</title>
-		<g clip-path="url(#clip0)">
+		<g>
 			<path
 				fill-rule="evenodd"
 				clip-rule="evenodd"

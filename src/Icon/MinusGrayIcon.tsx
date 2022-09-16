@@ -18,6 +18,7 @@ export const MinusGrayIcon: React.FC<Props> = ({
 		version="1.1"
 		xmlns="http://www.w3.org/2000/svg"
 		preserveAspectRatio="xMidYMid meet"
+		viewBox="0 0 12 12"
 		width={width}
 		height={height}
 		fill={fill}
@@ -30,9 +31,15 @@ export const MinusGrayIcon: React.FC<Props> = ({
 		<g>
 			<g>
 				<g>
-					<use opacity="1" fill="#000000" fill-opacity="0"></use>
+					<use
+						xlinkHref="#a5cd1n3qB"
+						opacity="1"
+						fill="#000000"
+						fill-opacity="0"
+					></use>
 					<g>
 						<use
+							xlinkHref="#a5cd1n3qB"
 							opacity="1"
 							fill-opacity="0"
 							stroke="#272932"

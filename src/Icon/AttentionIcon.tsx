@@ -23,7 +23,7 @@ export const AttentionIcon: React.FC<Props> = ({
 		xmlns="http://www.w3.org/2000/svg"
 	>
 		<title>{tooltip}</title>
-		<g clip-path="url(#clip0)">
+		<g>
 			<rect
 				y="-0.00390625"
 				width="8"

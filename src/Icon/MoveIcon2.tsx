@@ -23,7 +23,7 @@ export const MoveIcon2: React.FC<Props> = ({
 		xmlns="http://www.w3.org/2000/svg"
 	>
 		<title>{tooltip}</title>
-		<g opacity="0.8" clip-path="url(#clip0)">
+		<g opacity="0.8">
 			<path
 				fill-rule="evenodd"
 				clip-rule="evenodd"

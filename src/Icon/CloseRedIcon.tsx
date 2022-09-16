@@ -32,9 +32,15 @@ export const CloseRedIcon: React.FC<Props> = ({
 		<g>
 			<g>
 				<g>
-					<use opacity="1" fill="#000000" fill-opacity="0"></use>
+					<use
+						xlinkHref="#dpYuSiKQh"
+						opacity="1"
+						fill="#000000"
+						fill-opacity="0"
+					></use>
 					<g>
 						<use
+							xlinkHref="#dpYuSiKQh"
 							opacity="1"
 							fill-opacity="0"
 							stroke="#ee3e54"
@@ -44,9 +50,15 @@ export const CloseRedIcon: React.FC<Props> = ({
 					</g>
 				</g>
 				<g>
-					<use opacity="1" fill="#000000" fill-opacity="0"></use>
+					<use
+						xlinkHref="#e1ghzTQEKb"
+						opacity="1"
+						fill="#000000"
+						fill-opacity="0"
+					></use>
 					<g>
 						<use
+							xlinkHref="#e1ghzTQEKb"
 							opacity="1"
 							fill-opacity="0"
 							stroke="#ee3e54"

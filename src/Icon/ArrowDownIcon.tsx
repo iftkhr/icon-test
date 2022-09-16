@@ -33,9 +33,15 @@ export const ArrowDownIcon: React.FC<Props> = ({
 		<g>
 			<g>
 				<g>
-					<use opacity="1" fill="#000000" fill-opacity="0"></use>
+					<use
+						xlinkHref="#f6pl2RLxTG"
+						opacity="1"
+						fill="#000000"
+						fill-opacity="0"
+					></use>
 					<g>
 						<use
+							xlinkHref="#f6pl2RLxTG"
 							opacity="1"
 							fill-opacity="0"
 							stroke="#4050a6"
@@ -45,9 +51,15 @@ export const ArrowDownIcon: React.FC<Props> = ({
 					</g>
 				</g>
 				<g>
-					<use opacity="1" fill="#000000" fill-opacity="0"></use>
+					<use
+						xlinkHref="#i2XHB1iEV"
+						opacity="1"
+						fill="#000000"
+						fill-opacity="0"
+					></use>
 					<g>
 						<use
+							xlinkHref="#i2XHB1iEV"
 							opacity="1"
 							fill-opacity="0"
 							stroke="#4050a6"
@@ -57,9 +69,15 @@ export const ArrowDownIcon: React.FC<Props> = ({
 					</g>
 				</g>
 				<g>
-					<use opacity="1" fill="#000000" fill-opacity="0"></use>
+					<use
+						xlinkHref="#eiMlFIEuN"
+						opacity="1"
+						fill="#000000"
+						fill-opacity="0"
+					></use>
 					<g>
 						<use
+							xlinkHref="#eiMlFIEuN"
 							opacity="1"
 							fill-opacity="0"
 							stroke="#4050a6"
