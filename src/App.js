@@ -359,6 +359,34 @@ function App() {
 					STROKE=RED
 				</div>
 			</div>
+			<div className="AbsoluteIcon rows">
+				<div className="name"> AbsoluteIcon </div>
+				<AbsoluteIcon />
+				<AbsoluteIcon
+					width="50"
+					height="50"
+					fill="red"
+					tooltip="AbsoluteIcon"
+				/>
+				<AbsoluteIcon
+					width="75"
+					height="75"
+					fill="blue"
+					stroke="white"
+				/>
+				<AbsoluteIcon
+					width="100"
+					height="100"
+					fill="green"
+					stroke="black"
+				/>
+				<AbsoluteIcon
+					width="125"
+					height="125"
+					fill="yellow"
+					stroke="red"
+				/>
+			</div>
 			<div className="ActiveLeftAlignIcon rows">
 				<div className="name"> ActiveLeftAlignIcon </div>
 				<ActiveLeftAlignIcon />
